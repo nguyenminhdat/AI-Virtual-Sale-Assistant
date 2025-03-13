@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+redis
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
